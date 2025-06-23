@@ -1,2 +1,2 @@
 # projeto_simulador_investimento_curso_excel
-Um projeto criado durante o curso de excel na plataforma DIO.
+Projeto modelo de uma ferramenta simples em Excel para simular investimentos em fundos imobiliários, criado durante o curso de Excel na plataforma DIO.
